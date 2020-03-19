@@ -30,7 +30,7 @@ twitter_username: eww125
 github_username:  eww125
 
 # Build settings
-theme: minima
+theme: dark
 plugins:
   - jekyll-feed
 
